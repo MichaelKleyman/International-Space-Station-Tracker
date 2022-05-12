@@ -1,0 +1,2 @@
+# International-Space-Station-Tracker
+Using API endpoints/requests/parameters, smtplib in python, and the datetime python module, i took the api documentation of the International space station location which involves the longitude and latitude coordinates, and compared it with my current latitude and longitude, and based on the sunset and sunrise times, we can track when the ISS will be above my location in the night sky. When the happens, the SMTP in python will send me an email telling me to look up for the ISS in the sky.
